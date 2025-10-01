@@ -1,0 +1,13 @@
+{
+    "dart.flutterRunAdditionalArgs": [
+        "-d", "SM"
+    ],
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": false,
+    "code-runner.executorMap": {
+        "dart": "flutter run -d SM"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": true
+}
